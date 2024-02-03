@@ -3,11 +3,12 @@ Nesse pojeto escreve "Hello, World!" na tela, já que todo programador sabe que 
 Comandos usadas:
 App - Nome dada a classe do aplicativo em Java
 
-Classes e atributos: ##
-  public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
-        }
-  }
+Classes e atributos:
+<br>
+  public static void main(String[] args) throws Exception { <br>
+        System.out.println("Hello, World!"); <br>
+        } <br>
+  }<br>
 
 public - Este é um modificador de acesso que indica que a classe ou método é acessível a partir de qualquer outra classe. No caso, a função main está definida como pública, o que significa que pode ser chamada de fora da classe.
 static - Este é um modificador que indica que o método ou variável pertence à classe em vez de uma instância específica da classe. O método main é geralmente definido como estático porque é chamado antes que qualquer objeto da classe seja criado.
