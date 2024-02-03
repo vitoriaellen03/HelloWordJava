@@ -1,9 +1,10 @@
 Nesse pojeto escreve "Hello, World!" na tela, já que todo programador sabe que é essencial escrever essa frase quando se começa uma linguagem nova :D
 
-Comandos usadas:
-App - Nome dada a classe do aplicativo em Java
+<b>Comandos usadas:</b> 
+<br>
+<b>App</b> - Nome dada a classe do aplicativo em Java
 
-Classes e atributos:
+<b>Classes e atributos:</b>
 <br>
   public static void main(String[] args) throws Exception { <br>
         System.out.println("Hello, World!"); <br>
